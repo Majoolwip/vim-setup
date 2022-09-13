@@ -1,6 +1,4 @@
 # vimrc setup
-
-## Description
 This repo serves as my own personal backup of my vimrc script. Feel free to use
 it as your own or as inspiration for your own vimrc config.
 
